@@ -19,7 +19,7 @@ def criaJogo(n,q):
         matriz[i][j] = 1
        
     return matriz    
-
+ 
 matriz=criaJogo(n,q)
 print(matriz)
 
